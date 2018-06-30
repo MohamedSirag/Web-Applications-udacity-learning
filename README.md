@@ -1,1 +1,1 @@
-# Web-Applications-udacity-learning
+# My coding while studying Web Applications for Everybody Specialization from udacity website

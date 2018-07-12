@@ -1,0 +1,11 @@
+<?php
+
+$r=42;
+if($r<10){
+    print "ya";
+}
+else {
+    print "no dats aint true";
+}
+
+?>
